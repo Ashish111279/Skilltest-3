@@ -1,0 +1,5 @@
+frontend_instance_id = "i-037d7985c9ea0cd09"
+backend_instance_id  = "i-0c8b52ea004883370"
+dockerhub_username = "your-dockerhub-username"
+image_tag          = "latest"
+aws_region         = "us-east-1"
